@@ -2,7 +2,7 @@
 Your favourite digital, British assistant is here to answer any burning questions you might have pertaining to health, finance and education  
 
 ## Design
-![Screenshot](images/Weather-IO.jpg) 
+![Screenshot](images/ChatAssist.jpg) 
 
 ## Tools used: 
 - Bootstrap 5
